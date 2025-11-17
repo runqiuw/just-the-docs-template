@@ -10,7 +10,7 @@ favicon_ico: "./assets/favicon_32.ico"
 # Aux links for the upper right navigation
 aux_links:
   "View this project on GitHub":
-    - "//github.com/goooooooooooogle/just-the-docs-template"
+    - "//github.com/runqiuw/just-the-docs-template"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -20,5 +20,6 @@ mermaid:
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.3"
 
-url: https://goooooooooooogle.github.io/just-the-docs-template
+url: https://runqiuw.github.io
+baseurl: "/just-the-docs-template"
 
